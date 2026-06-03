@@ -3,7 +3,7 @@
 
 Terminal made because i wanted to vibecode larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp 
 
-I forgot to add this, but this readme is gonna be the most stupid thing you are gonna read today, and i can GUARANTEE THAT. I know this readme looks like im boasting but i really dont even see whats good in this lmfao 🥹 (also gemini made the readme so not really my words)
+I forgot to add this, but this readme is gonna be the most stupid thing you are gonna read today, and i can GUARANTEE THAT. but i really dont even see whats good in this lmfao 🥹 (also gemini made the OG readme so not really my words)
 
 (also dont take this project seriously its still the assest thing i could have imagined)
 
