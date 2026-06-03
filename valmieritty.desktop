@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Valmieritty
+Comment=Just a monochrome terminal for monochrome lovers
+Exec=valmieritty
+Icon=utilities-terminal
+Terminal=false
+Categories=System;TerminalEmulator;
