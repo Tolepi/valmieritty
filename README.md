@@ -1,4 +1,5 @@
 # 🟦 Valmieritty 
+<img width="623" height="404" alt="valmierittypv" src="https://github.com/user-attachments/assets/c3e7df30-c10c-4970-a8dd-4bc6070162c4" />
 
 **"Because circles are for people who can't handle the edge."**
 
