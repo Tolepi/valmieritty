@@ -26,7 +26,7 @@ If you don't have these, your computer is basically a glorified calculator:
 - A soul that appreciates industrial design.
 
 ## 🚀 Installation
-If you can't type these 4 commands, you probably don't deserve these squares:
+If you can't type these 4 commands, i envy you:
 
 ```bash
 - git clone https://github.com/Tolepi/valmieritty
