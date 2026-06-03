@@ -3,6 +3,10 @@
 
 **"Because circles are for people who can't handle the edge."**
 
+I forgot to add this, but this readme is gonna be the most stupid thing you are gonna read today, and i can GUARANTEE THAT.
+
+(also dont take this project seriously its still the assest thing i could have imagined)
+
 Valmieritty is a terminal emulator born from a simple realization: the world has too many border-radius properties. It’s built in C, it’s faster than your current lifestyle, and it has more edges than a 14-year-old's Tumblr blog.
 
 Its appearance looks similar to GNOME Terminal, but at this point i dont care, i am happy with this
