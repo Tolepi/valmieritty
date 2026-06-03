@@ -1,7 +1,7 @@
 # Valmieritty 
 <img width="623" height="404" alt="valmierittypv" src="https://github.com/user-attachments/assets/c3e7df30-c10c-4970-a8dd-4bc6070162c4" />
 
-Because i wanted to vibecode larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp 
+Terminal made because i wanted to vibecode larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp larp 
 
 I forgot to add this, but this readme is gonna be the most stupid thing you are gonna read today, and i can GUARANTEE THAT. I know this readme looks like im boasting but i really dont even see whats good in this lmfao 🥹 (also gemini made the readme so not really my words)
 
