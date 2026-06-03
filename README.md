@@ -37,6 +37,10 @@ Q: Why are there no settings? A: Because the settings are perfect. If you want t
 
 Q: Can I have rounded corners? A: No. Go download a browser from 2012 if you want bubbles.
 
-Q: Is this bloat-free? A: It's so light it's practically floating. It uses less RAM than a Chrome tab displaying a blank page.
+Q: Is this bloat-free? A: It's so light it's practically floating. It uses less RAM than a Chrome tab displaying a blank page. (But who the fuck uses Chrome?)
+
+Q: Ewww why did you make it on Linux Mint ewww i use arch btw bark bark bark abrarakrb A: ...
+
+Q: This looks vibecoded so im not using it. A: Wah wah idfc if you dont want to use it then go back to kitty or alacritty
 
 Made with 100% pure hate for border-radius: 5px;
