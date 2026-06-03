@@ -20,7 +20,7 @@ If you don't have these, your computer is blessed PLEASE DONT INSTALL THIS:
 - `libgtk-3-dev`
 - `libvte-2.91-dev`
 - Terminess Nerd Font
-- A soul that appreciates industrial design.
+- A horrible taste in terminals
 
 ## 🚀 Installation
 If you can't type these 4 commands, i envy you:
