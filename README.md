@@ -3,7 +3,7 @@
 
 **"Because circles are for people who can't handle the edge."**
 
-I forgot to add this, but this readme is gonna be the most stupid thing you are gonna read today, and i can GUARANTEE THAT.
+I forgot to add this, but this readme is gonna be the most stupid thing you are gonna read today, and i can GUARANTEE THAT. I know this readme looks like im boasting but i really dont even see whats good in this lmfao 🥹 (also gemini made the readme so not really my words)
 
 (also dont take this project seriously its still the assest thing i could have imagined)
 
