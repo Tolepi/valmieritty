@@ -18,6 +18,7 @@ Using this terminal might result in:
 If you don't have these, your computer is basically a glorified calculator:
 - `libgtk-3-dev`
 - `libvte-2.91-dev`
+- Terminess Nerd Font
 - A soul that appreciates industrial design.
 
 ## 🚀 Installation
