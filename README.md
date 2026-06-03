@@ -5,11 +5,14 @@
 
 Valmieritty is a terminal emulator born from a simple realization: the world has too many border-radius properties. It’s built in C, it’s faster than your current lifestyle, and it has more edges than a 14-year-old's Tumblr blog.
 
+Its appearance looks similar to GNOME Terminal, but at this point i dont care, i am happy with this
+
 ## ⚠️ WARNING
 Using this terminal might result in:
 - A sudden urge to uninstall every "round" UI element.
 - Increased elitism during Linux discussions.
 - Extreme satisfaction when looking at 90-degree angles.
+- An intense love for Terminess Nerd Font
 
 ## 🛠️ Requirements
 If you don't have these, your computer is basically a glorified calculator:
